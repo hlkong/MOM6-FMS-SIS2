@@ -21,3 +21,4 @@ seaice.stats.*
 .ipynb_checkpoints
 # Ignore anything labeled ignore
 *.ignore
+ocean_only/
